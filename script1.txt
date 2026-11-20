@@ -1,0 +1,4 @@
+#!/bin/bash
+
+USER_1=Salmaan
+echo "Hello, I am $USER_1"
